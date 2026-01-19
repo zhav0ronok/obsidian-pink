@@ -1,0 +1,30 @@
+.theme-light {
+	--background-primary:#d7cbcf;
+	--background-secondary:#cbadb7;
+	--background-secondary-alt:#cbadb7;
+
+
+}
+
+body{
+
+	--inline-title-font:'Iosevka Nerd Font', sans-serif;
+	--inline-title-weight:bold;
+	--inline-title-variant: normal;
+	--inline-title-color:#cb2471;
+
+	--metadata-display-reading:none;
+
+	--font-text-theme:'Iosevka Nerd Font',sans-serif;
+
+	--font-interface-theme: 'Iosevka Nerd Font',sans-serif;
+	--text-normal: #665f52;
+
+	--hr-color:#665f52;
+	--table-border-color: #665f52;
+	--code-background:#cbadb7;
+
+	--graph-line:#d482a8;
+
+}
+
